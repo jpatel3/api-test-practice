@@ -1,4 +1,4 @@
-APISamples
-==========
+api-test-practice
+=================
 
-Test/Sample different API Call tests (OAuth, Key etc authentication)
+Test/Sample different API Call tests (using OAuth, Key etc authentication mechanism)
