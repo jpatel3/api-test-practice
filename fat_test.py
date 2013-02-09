@@ -4,8 +4,8 @@ from fatsecret import FatSecretError
 import sys
 
 class FatSecretTestApplication(FatSecretApplication):
-	key = 'ed1da5872e244f0b91cdc7b9e0aa732e'
-	secret = 'ee9bebe76783478a86072307689f8c78'
+	key = 'your_key'
+	secret = 'your_shared_secret_key'
                 
 client = FatSecretClient().connect().setApplication(FatSecretTestApplication)
 
